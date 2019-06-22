@@ -3,9 +3,15 @@
   "version": "1.0.0",
   "description": "A simple Hello World! program in Node.js.",
   "main": "hello_world.js",
+  "repository": "https://github.com/Dyndrilliac/HelloWorld-NodeJS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dyndrilliac",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.0.0",
+    "eslint-config-google": "^0.13.0"
+  }
 }
